@@ -1,10 +1,10 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  website: "https://nmtshark.github.io/", // replace this with your deployed domain
+  author: "NmToan",
+  profile: "https://nmtshark.github.io/",
+  desc: "A page to share my thoughts and experiences about Write-up CTF.",
+  title: "NmToan's Blog",
+  ogImage: "assets/images/meme.jpg", // default open graph image
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,

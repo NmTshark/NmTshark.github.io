@@ -1,7 +1,7 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-12-28T04:59:04.866Z
-modDatetime: 2025-03-12T13:39:20.763Z
+author: NmToan
+pubDatetime: 2025-12-28T04:59:04.866Z
+modDatetime: 2025-12-28T13:39:20.763Z
 title: HeroCTF 2025 Forensics 2
 slug:  HeroCTF 2025 Forensics 2
 featured: true
@@ -9,7 +9,8 @@ draft: false
 tags:
   - Forensics
   - HeroCTF2025
-description: New feature in AstroPaper v1.4.0, introducing dynamic OG image generation for blog posts.
+description: |
+  "Write-up challenge Forensics 2 từ cuộc thi HeroCTF 2025 về việc điều tra server pensive.hogwarts.local để tìm cách attacker chiếm tài khoản của Albus Dumbledore."
 ---
 > **Chủ đề:** Điều tra server pensive.hogwarts.local để tìm cách attacker chiếm tài khoản của Albus Dumbledore  
 > **Mục tiêu:** Trả flag theo format:  
