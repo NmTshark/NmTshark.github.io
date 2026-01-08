@@ -227,7 +227,7 @@ if __name__ == "__main__":
 ```
 Sau khi chạy script trên, tôi nhận được một file `communicate.txt` chứa các lệnh đã được giải mã. Tôi mở file này và tìm thấy nhiều lệnh hệ thống đã được thực thi trên máy nạn nhân, tới đây chúng ta đã có đủ dữ liệu để có thể trả lời các câu hỏi của challenge.
 
-![Nội dung file](/assets/images/communicate.png)
+![Nội dung file](src/assets/images/communicate.png)
 
 ## Kết luận và Trả lời câu hỏi
 1. **What is the first file that is read? Enter the full path of the file.**
