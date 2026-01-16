@@ -2,8 +2,8 @@
 author: NmToan
 pubDatetime: 2025-12-27T04:59:04.866Z
 modDatetime: 2025-12-27T13:39:20.763Z
-title: VCSPassport Gimme_your_point!
-slug:  VCSPassport Gimme_your_point
+title: VCSPassport BlueTeam CTF Gimme_your_point!
+slug:  VCSPassport_Blue_Team_CTF_Gimme_your_point
 featured: false
 draft: false
 tags:
